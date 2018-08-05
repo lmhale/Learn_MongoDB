@@ -1,0 +1,25 @@
+{
+  "name": "mongodb_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmhale/Learn_MongoDB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lmhale/Learn_MongoDB/issues"
+  },
+  "homepage": "https://github.com/lmhale/Learn_MongoDB#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongodb": "^3.1.1",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2"
+  }
+}
